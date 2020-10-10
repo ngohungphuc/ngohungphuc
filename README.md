@@ -16,7 +16,7 @@
 + https://ngohungphuc.wordpress.com/
 
 * Linkedin:
-+ https://www.linkedin.com/in/phuc-ngo-hung-tony-hudson-7b92a0107/
++ https://www.linkedin.com/in/phuc-ngo-hung-7b92a0107/
 
 * Other hobbies:
 - https://500px.com/ngohungphuc95
