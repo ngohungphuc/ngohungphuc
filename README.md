@@ -3,21 +3,22 @@
 - I have been working in Software industry since 3rd years of my university as fresher and full time at final year of my university
 - I have 5 Years’ experience with various Fullstack web stack in ASP.Net, ASP.Net Core, Angular, React JS, NodeJS
 - My main skill is: 
-•	Angular & Javascript 5 years.
 
-•	ASP.Net Core, NodeJS 4 years.
+  +	Angular & Javascript 5 years.
+  
+  +	ASP.Net Core, NodeJS 4 years.
+  
+  +	PHP, React & React Native 3 years.
 
-•	PHP, React & React Native 3 years.
+- Techical skills
 
-*Techical skills
+  +	Angular, React, HTML, CSS. JS, SASS, Webpack, Redux & NGRX
 
-•	Angular, React, HTML, CSS. JS, SASS, Webpack, Redux & NGRX
+  +	Progressive Web APP, Mean Stack, NEST JS
 
-•	Progressive Web APP, Mean Stack, NEST JS
+  +	ASP.Net Core, NodeJS, Laravel, Wordpress
 
-•	ASP.Net Core, NodeJS, Laravel, Wordpress
-
-•	MySQL, SQLServer, MongoDB, Redis
+  +	MySQL, SQLServer, MongoDB, Redis
 
 * My open source account:
 + https://stackoverflow.com/users/11487196/tony-ngo
