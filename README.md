@@ -1,13 +1,23 @@
 ### Hi there my name is Phuc but you can call me Tony.👋
 
 - I have been working in Software industry since 3rd years of my university as fresher and full time at final year of my university
-- I have 5 Years experience with Fullstack web development in ASP.Net, ASP.Net Core, Angular, React JS, NodeJS, Redux & NGRX, Webpack
-- Experience working with Web tool & framework: Flask, NodeJS, Mean Stack, GraphQL, NGRX
-- PHP framework Laravel, CI , Wordpress
-- Architect Design: MicroService, Angular
-- Testing framework: Specflow Automation Test (Gherkin)
-- Devops Skill: Travis, AppVoyer, Azure
-- I'm also technical trainer and Tech presentator.
+- I have 5 Years’ experience with various Fullstack web stack in ASP.Net, ASP.Net Core, Angular, React JS, NodeJS
+- My main skill is: 
+•	Angular & Javascript 5 years.
+
+•	ASP.Net Core, NodeJS 4 years.
+
+•	PHP, React & React Native 3 years.
+
+*Techical skills
+
+•	Angular, React, HTML, CSS. JS, SASS, Webpack, Redux & NGRX
+
+•	Progressive Web APP, Mean Stack, NEST JS
+
+•	ASP.Net Core, NodeJS, Laravel, Wordpress
+
+•	MySQL, SQLServer, MongoDB, Redis
 
 * My open source account:
 + https://stackoverflow.com/users/11487196/tony-ngo
