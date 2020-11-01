@@ -30,7 +30,7 @@
   + https://www.linkedin.com/in/phuc-ngo-hung-7b92a0107/
 
 * Other hobbies:
-- https://500px.com/ngohungphuc95
+  + https://500px.com/ngohungphuc95
 
 Language that I speak
 
