@@ -21,13 +21,13 @@
   +	MySQL, SQLServer, MongoDB, Redis
 
 * My open source account:
-+ https://stackoverflow.com/users/11487196/tony-ngo
+  + https://stackoverflow.com/users/11487196/tony-ngo
 
 * My blog
-+ https://ngohungphuc.wordpress.com/
+  + https://ngohungphuc.wordpress.com/
 
 * Linkedin:
-+ https://www.linkedin.com/in/phuc-ngo-hung-7b92a0107/
+  + https://www.linkedin.com/in/phuc-ngo-hung-7b92a0107/
 
 * Other hobbies:
 - https://500px.com/ngohungphuc95
