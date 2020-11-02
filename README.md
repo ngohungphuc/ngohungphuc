@@ -13,7 +13,7 @@
 
 - Techical skills
 
-  +	Angular, React, HTML, CSS. JS, SASS, Webpack, Redux & NGRX
+  +	Angular, React & React Native , HTML, CSS. JS, SASS, Webpack, Redux & NGRX
 
   +	Progressive Web APP, Mean Stack, NEST JS
 
