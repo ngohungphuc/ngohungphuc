@@ -1,14 +1,15 @@
 ### Hi there my name is Phuc but you can call me Tony.👋
 
 - I have been working in Software industry since 3rd years of my university as fresher and full time at final year of my university
-- I have 5 Years’ experience with various Fullstack web stack in ASP.Net, ASP.Net Core, Angular, React JS, NodeJS
+- I have 5 Years’ experience with various Fullstack web stack in ASP.Net, ASP.Net Core, Angular, React JS & React Native, NodeJS, Javascript, PHP, NestJS
 - My main skill is: 
 
-  +	Angular & Javascript 5 years.
-  
-  +	ASP.Net Core, NodeJS 4 years.
-  
-  +	PHP, React & React Native 3 years.
+  +	Angular & Javascript 5 years
+ 
+  +	ASP.Net Core, NodeJS 4 years
+ 
+  +	PHP, React & React Native 3 years
+
 
 - Techical skills
 
