@@ -15,7 +15,7 @@
 
   +	Angular, React & React Native , HTML, CSS. JS, SASS, Webpack, Redux & NGRX
 
-  +	Progressive Web APP, Mean Stack, NEST JS
+  +	Progressive Web APP, Mean Stack, NEST JS, GraphQL
 
   +	ASP.Net Core, NodeJS, Laravel, Wordpress
 
