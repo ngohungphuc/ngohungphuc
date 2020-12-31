@@ -13,7 +13,7 @@
 
 - Techical skills
 
-  +	Angular, React & React Native , HTML, CSS. JS, SASS, Webpack, Redux & NGRX
+  +	Angular, React & React Native , HTML, CSS. JS, SASS, Webpack, Redux & NGRX, Regex
 
   +	Progressive Web APP, Mean Stack, NEST JS, GraphQL
 
@@ -21,17 +21,20 @@
 
   +	MySQL, SQLServer, MongoDB, Redis
 
-* My open source account:
-  + https://stackoverflow.com/users/11487196/tony-ngo
+- Social account:
+  +	https://github.com/ngohungphuc
+  
+  +	https://stackoverflow.com/users/11487196/tony-ngo
+  
+  +	https://www.youracclaim.com/users/phuc-ngo.e5ef838d/badges
+  
+  +	https://ngohungphuc.wordpress.com/
 
-* My blog
-  + https://ngohungphuc.wordpress.com/
+  +	https://www.linkedin.com/in/phuc-ngo-hung-7b92a0107/
 
-* Linkedin:
-  + https://www.linkedin.com/in/phuc-ngo-hung-7b92a0107/
+  +	https://www.hackerrank.com/ngohungphuc95
 
-* Other hobbies:
-  + https://500px.com/ngohungphuc95
+  +	https://www.freecodecamp.org/ngohungphuc95
 
 Language that I speak
 
