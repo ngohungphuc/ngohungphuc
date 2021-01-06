@@ -4,11 +4,13 @@
 - I have 5 Years’ experience with various Fullstack web stack in ASP.Net, ASP.Net Core, Angular, React JS & React Native, NodeJS, Javascript, PHP, NestJS
 - My main skill is: 
 
-  +	Angular & Javascript 5 years
- 
-  +	ASP.Net Core, NodeJS 4 years
- 
-  +	PHP, React & React Native 3 years
+  + Angular & Javascript 5 years
+  
+  + ASP.Net Core, NodeJS 4 years
+  
+  + PHP, React 3 years.
+  
+  + Python 1 years.
 
 
 - Techical skills
