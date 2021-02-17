@@ -10,7 +10,7 @@
   
   + PHP, React 3 years.
   
-  + Python 1 years.
+  + MongoDB 2 years.
 
 
 - Techical skills
