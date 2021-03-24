@@ -26,8 +26,6 @@
 - Social account:
   +	https://github.com/ngohungphuc
   
-  + https://drive.google.com/drive/u/0/folders/1NVmUGwW06P3OCc5379c-0j7bNPn85pHk
-  
   +	https://stackoverflow.com/users/11487196/tony-ngo
   
   +	https://www.youracclaim.com/users/phuc-ngo.e5ef838d/badges
@@ -40,6 +38,9 @@
 
   +	https://www.freecodecamp.org/ngohungphuc95
 
+- Certifications:
+  + https://drive.google.com/drive/u/0/folders/1NVmUGwW06P3OCc5379c-0j7bNPn85pHk
+  
 Language that I speak
 
 | <img src="https://ngohungphuc.files.wordpress.com/2020/06/uk.png?w=64"/> | <img src="https://ngohungphuc.files.wordpress.com/2020/06/flag-2.png?w=64"/> | <img src="https://ngohungphuc.files.wordpress.com/2020/06/flag-1.png?w=64"/> |
