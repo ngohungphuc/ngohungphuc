@@ -54,3 +54,5 @@ My future plan
 
 <img src="https://ngohungphuc.files.wordpress.com/2020/12/italy-flag-round-icon-64.png?w=64"/>
 
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ngohungphuc&show_icons=true&count_private=true&theme=algolia)
