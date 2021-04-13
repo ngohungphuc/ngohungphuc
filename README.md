@@ -11,7 +11,8 @@
   + PHP, React 3 years.
   
   + MongoDB 2 years.
-
+ 
+  + Swift, Python: 1 year.
 
 - Techical skills
 
@@ -22,6 +23,8 @@
   +	ASP.Net Core, NodeJS, Laravel, Wordpress
 
   +	MySQL, SQLServer, MongoDB, Redis
+
+  + Data Analytics
 
 - Social account:
   +	https://github.com/ngohungphuc
