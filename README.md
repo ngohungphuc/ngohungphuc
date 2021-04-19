@@ -26,6 +26,9 @@
 
   + Data Analytics
 
+- CV Link:
+  + https://www.topcv.vn/xem-cv/361b806e6782ed4289c09d1cf7d84734
+
 - Social account:
   +	https://github.com/ngohungphuc
   
