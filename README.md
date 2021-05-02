@@ -1,6 +1,6 @@
 ### Hi there my name is Phuc but you can call me Tony.👋
 
-- I have 5 Years’ experience with various Web and Mobile Technologies
+- I have more than 5 years experiences with various Web and Mobile Technologies
 
 - Tech stacks:
 
