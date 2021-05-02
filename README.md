@@ -2,6 +2,8 @@
 
 - I have 5 Years’ experience with various Web and Mobile Technologies
 
+- Tech stacks:
+
   + Angular & Javascript 5 years
   
   + ASP.Net Core, NodeJS 4 years
