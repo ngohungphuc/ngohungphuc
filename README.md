@@ -10,13 +10,11 @@
   
   + PHP, React 3 years.
   
-  + MongoDB 2 years.
- 
-  + Swift, Python: 1 year.
+  + MongoDB, Swift, Python: 2 years.
 
 - Techical skills
 
-  +	Angular, React & React Native , HTML, CSS. JS, SASS, Webpack, Redux & NGRX, Regex
+  +	Angular, React & React Native , HTML, CSS. JS, SASS, Webpack, Redux & NGRX, Swift
 
   +	Progressive Web APP, Mean Stack, NEST JS, GraphQL
 
