@@ -1,6 +1,5 @@
 ### Hi there my name is Phuc but you can call me Tony.👋
 
-- I have been working in Software industry since 3rd years of my university as fresher and full time at final year of my university
 - I have 5 Years’ experience with various Web and Mobile Technologies
 
   + Angular & Javascript 5 years
