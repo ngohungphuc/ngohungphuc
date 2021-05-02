@@ -14,15 +14,7 @@
 
 - Techical skills
 
-  +	Angular, React & React Native , HTML, CSS. JS, SASS, Webpack, Redux & NGRX, Swift
-
-  +	Progressive Web APP, Mean Stack, NEST JS, GraphQL
-
-  +	ASP.Net Core, NodeJS, Laravel, Wordpress
-
-  +	MySQL, SQLServer, MongoDB, Redis
-
-  + Data Analytics
+  + Angular, React , HTML, CSS, JS, SASS, Webpack, Redux & NGRX, Swift, Progressive Web APP, Mean Stack, NEST JS, GraphQL ASP.Net Core, NodeJS, Laravel, Wordpress, MySQL, SQLServer, MongoDB, Redis, Data Analytics
 
 - CV Link:
   + https://www.topcv.vn/xem-cv/361b806e6782ed4289c09d1cf7d84734
