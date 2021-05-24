@@ -17,7 +17,7 @@
   + Angular, React , HTML, CSS, JS, SASS, Webpack, Redux & NGRX, Swift, Progressive Web APP, Mean Stack, NEST JS, GraphQL ASP.Net Core, NodeJS, Laravel, Wordpress, MySQL, SQLServer, MongoDB, Redis, Data Analytics
 
 - CV Link:
-  + https://www.topcv.vn/xem-cv/BAABWQADAAVVDwJfUgYAVQMFAVAFVAFUXQICVA4b41
+  + https://i.topcv.vn/ngohungphuc?ref=4166708
 
 - Social account:
   +	https://github.com/ngohungphuc
