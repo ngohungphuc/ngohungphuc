@@ -42,12 +42,9 @@ Language that I speak
 | <img src="https://ngohungphuc.files.wordpress.com/2020/06/uk.png?w=64"/> | <img src="https://ngohungphuc.files.wordpress.com/2020/06/flag-2.png?w=64"/> | <img src="https://ngohungphuc.files.wordpress.com/2020/06/flag-1.png?w=64"/> |
 | ------ | ------ | ------ |
 
-Currently learning
-
-<img src="https://ngohungphuc.files.wordpress.com/2020/06/flag-3.png?w=64"/>
-
 My future plan
 
+<img src="https://ngohungphuc.files.wordpress.com/2020/06/flag-3.png?w=64"/>
 <img src="https://ngohungphuc.files.wordpress.com/2020/12/italy-flag-round-icon-64.png?w=64"/>
 
 
