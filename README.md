@@ -2,16 +2,6 @@
 
 - I have more than 5 years experiences with various Web and Mobile Technologies
 
-- Tech stacks:
-
-  + Angular & Javascript 5 years
-  
-  + ASP.Net Core, NodeJS 4 years
-  
-  + PHP, React 3 years.
-  
-  + MongoDB, Swift, Python: 2 years.
-
 - Techical skills
 
   + Angular, React , HTML, CSS, JS, SASS, Webpack, Redux & NGRX, Swift, Progressive Web APP, Mean Stack, NEST JS, GraphQL ASP.Net Core, NodeJS, Laravel, Wordpress, MySQL, SQLServer, MongoDB, Redis, Data Analytics
@@ -29,10 +19,6 @@
   +	https://ngohungphuc.wordpress.com/
 
   +	https://www.linkedin.com/in/phuc-ngo-hung-7b92a0107/
-
-  +	https://www.hackerrank.com/ngohungphuc95
-
-  +	https://www.freecodecamp.org/ngohungphuc95
 
 - Certifications:
   + https://drive.google.com/drive/u/0/folders/1NVmUGwW06P3OCc5379c-0j7bNPn85pHk
