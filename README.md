@@ -1,8 +1,5 @@
 ### Hi there my name is Phuc but you can call me Tony.👋
 
-- CV Link:
-  + https://i.topcv.vn/ngohungphuc?ref=4166708
-
 - Social account:
   +	https://github.com/ngohungphuc
   
