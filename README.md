@@ -1,11 +1,5 @@
 ### Hi there my name is Phuc but you can call me Tony.👋
 
-- I have more than 5 years experiences with various Web and Mobile Technologies
-
-- Techical skills
-
-  + Angular, React , HTML, CSS, JS, SASS, Webpack, Redux & NGRX, Swift, Progressive Web APP, Mean Stack, NEST JS, GraphQL ASP.Net Core, NodeJS, Laravel, Wordpress, MySQL, SQLServer, MongoDB, Redis, Data Analytics
-
 - CV Link:
   + https://i.topcv.vn/ngohungphuc?ref=4166708
 
