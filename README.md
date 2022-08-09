@@ -14,7 +14,6 @@
 - Certifications:
   + https://drive.google.com/drive/u/0/folders/1NVmUGwW06P3OCc5379c-0j7bNPn85pHk
   
-Languages
 
 | <img src="https://ngohungphuc.files.wordpress.com/2020/06/uk.png?w=64"/> | <img src="https://ngohungphuc.files.wordpress.com/2020/06/flag-2.png?w=64"/> | <img src="https://ngohungphuc.files.wordpress.com/2020/06/flag-1.png?w=64"/> |
 | ------ | ------ | ------ |
