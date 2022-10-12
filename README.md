@@ -13,9 +13,7 @@
 
 - Certifications:
   + https://drive.google.com/drive/u/0/folders/1NVmUGwW06P3OCc5379c-0j7bNPn85pHk
-  
-
-| <img src="https://ngohungphuc.files.wordpress.com/2020/06/uk.png?w=64"/> | <img src="https://ngohungphuc.files.wordpress.com/2020/06/flag-2.png?w=64"/> | <img src="https://ngohungphuc.files.wordpress.com/2020/06/flag-1.png?w=64"/> |
-| ------ | ------ | ------ |
+ 
+- Languages: 🇳🇱 🇩🇪 🇺🇸
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ngohungphuc&show_icons=true&count_private=true&theme=algolia)
