@@ -15,5 +15,3 @@
   + https://drive.google.com/drive/u/0/folders/1NVmUGwW06P3OCc5379c-0j7bNPn85pHk
  
 - Languages: 🇳🇱 🇩🇪 🇺🇸
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ngohungphuc&show_icons=true&count_private=true&theme=algolia)
