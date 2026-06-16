@@ -7,5 +7,6 @@
 
 - Certifications:
   + https://drive.google.com/drive/u/0/folders/1NVmUGwW06P3OCc5379c-0j7bNPn85pHk
+  + https://www.credly.com/users/phuc-hung-ngo/badges/credly
  
 - Languages: 🇳🇱 🇩🇪 🇺🇸
